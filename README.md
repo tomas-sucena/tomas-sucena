@@ -1,4 +1,6 @@
-### My Stats
+![Hi](https://media.tenor.com/74l5y1hUdtwAAAAj/pokemon.gif)
+
+## My Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tomas-sucena&theme=vue-dark&title_color=blue&show_icons=true&line_height=30&hide=prs,issues&include_all_commits=true" />
